@@ -13,7 +13,7 @@ Cash Crypter is a unique type of FUD crypter that will protect your files using 
 - Anti VM
 - Bind files
 - AMSI bypass
-## Setting up
+## 🔧Setting up
 Build from the source these are the requirements. ( If you only use the license key to activate the software, don't need to read this line) .
 * [.NET Runtime](https://nodejs.org/en](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)https://dotnet.microsoft.com/en-us/download/dotnet/6.0/) 
 * [NET Framework SDK 4.8](https://nodejs.org/en](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48)https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48/) 
