@@ -18,3 +18,6 @@ Build from the source these are the requirements. ( If you only use the license 
 * [.NET Runtime](https://nodejs.org/en](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)https://dotnet.microsoft.com/en-us/download/dotnet/6.0/) 
 * [NET Framework SDK 4.8](https://nodejs.org/en](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48)https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48/) 
 * [Create an issue on the repository](https://github.com/CashZeus/Cash_Crypter/issues) with the error.
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=JustYuuto/Yuuto-Stealer&type=Date)](https://star-history.com/#JustYuuto/Yuuto-Stealer&Date)
