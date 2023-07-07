@@ -6,7 +6,7 @@ Cash Crypter is a unique type of FUD crypter that will protect your files using 
 - The private storage methods and polymorphic encryption create longer lasting FUD.
 - Professional license key system and live instant messaging support systems.
 - Free re-undetection updates.
-- ## Features ( DEV ) 
+ ## Features ( DEV ) 
 - .NET/Native (x64) support
 - AES 256 /XOR encryption
 - Compression
