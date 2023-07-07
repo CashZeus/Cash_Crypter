@@ -20,4 +20,4 @@ Build from the source these are the requirements. ( If you only use the license 
 * [Create an issue on the repository](https://github.com/CashZeus/Cash_Crypter/issues) with the error.
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=JustYuuto/Yuuto-Stealer&type=Date)](https://star-history.com/#JustYuuto/Yuuto-Stealer&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=CashZeus/Cash_Crypter&type=Date)](https://star-history.com/#CashZeus/Cash_Crypter&Date)
